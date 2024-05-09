@@ -18,3 +18,13 @@ C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.csproj.
 C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.csproj.CoreCompileInputs.cache
 C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.exe
 C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.pdb
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\bin\Debug\Clase personaV1.exe.config
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\bin\Debug\Clase personaV1.exe
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\bin\Debug\Clase personaV1.pdb
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase personaV1.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase_personaV1.Form1.resources
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase_personaV1.Properties.Resources.resources
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase personaV1.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase personaV1.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase personaV1.exe
+C:\Users\Licenciaturas\Source\Repos\BenjaminHz\Clase-Persona_Di22171\Clase personaV1\obj\Debug\Clase personaV1.pdb
