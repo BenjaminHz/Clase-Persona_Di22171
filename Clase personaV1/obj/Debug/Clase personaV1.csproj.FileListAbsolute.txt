@@ -1,0 +1,20 @@
+C:\Users\herna\Downloads\Perla\Clase personaV1\bin\Debug\Clase personaV1.exe.config
+C:\Users\herna\Downloads\Perla\Clase personaV1\bin\Debug\Clase personaV1.exe
+C:\Users\herna\Downloads\Perla\Clase personaV1\bin\Debug\Clase personaV1.pdb
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase personaV1.csproj.AssemblyReference.cache
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase_personaV1.Form1.resources
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase_personaV1.Properties.Resources.resources
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase personaV1.csproj.GenerateResource.cache
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase personaV1.csproj.CoreCompileInputs.cache
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase personaV1.exe
+C:\Users\herna\Downloads\Perla\Clase personaV1\obj\Debug\Clase personaV1.pdb
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\bin\Debug\Clase personaV1.exe.config
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\bin\Debug\Clase personaV1.exe
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\bin\Debug\Clase personaV1.pdb
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.csproj.AssemblyReference.cache
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase_personaV1.Form1.resources
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase_personaV1.Properties.Resources.resources
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.csproj.GenerateResource.cache
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.csproj.CoreCompileInputs.cache
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.exe
+C:\Users\LICENCIATURAS\Desktop\Clase personaV1\obj\Debug\Clase personaV1.pdb
